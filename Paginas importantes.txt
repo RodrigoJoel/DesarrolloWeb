@@ -1,0 +1,24 @@
+https://caniuse.com.com
+En esta pagina podemos conocer la compatibilidad con todos los navegadores 
+
+w3schools.com
+
+Pagina importante
+
+developers.mozilla.com
+
+
+CSS-
+
+htmlcheatsheet.com/css/
+propiedades---
+
+lipsum.com/feed/html
+para practicar el modelo de caja... crea textos para poder guiarme-- contenido de relleno
+
+
+
+full responsive--- librerias
+getbootstrap.com  clases para sitios responsivos
+foundation.com
+tailwindcss.com

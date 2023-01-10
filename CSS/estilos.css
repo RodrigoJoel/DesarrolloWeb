@@ -1,0 +1,14 @@
+/*asi se comenta en css*/
+h1{
+    font-weight: bold ;
+    color: black;
+    border: 5px solid black;
+    margin: 30px;
+    padding: 20px; ;
+}
+p{
+    margin: 25px;
+    border: 2px solid black;
+    color: grey;
+    display: block;
+}
